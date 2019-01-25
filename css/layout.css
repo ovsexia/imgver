@@ -1,0 +1,13 @@
+@charset "utf-8";
+body, input, textarea, select, button {font-family:"Arial", "PingFangSC-Light", "Microsoft Yahei", "宋体", sans-serif;}
+body {font-size:12px; color:#000;}
+a {color:#000; text-decoration:none;}
+a:focus {outline:0; -moz-outline:none;} /*for ff*/
+a:hover {text-decoration:none; color:#ad1f24;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,area,blockquote,th,td,p {margin:0; padding:0;}
+img, a img, button {border:0;}
+table {border-collapse:collapse;}
+li {list-style-type:none;}
+input, textarea, select, button {outline:none;}
+input, textarea {resize:none; -webkit-appearance:none; border-radius:0; border:1px solid #ddd; width:100%; box-sizing:border-box; min-height:30px;}
+button[type="submit"], input[type="submit"] {cursor:pointer;}
